@@ -1615,3 +1615,6 @@ Chonkie doesn't fully comply with Semantic Versioning. Instead, it uses the foll
 - `MAJOR`: Serious refactoring or complete rewrite of the package.
 - `MINOR`: Breaking changes to the package.
 - `PATCH`: Bug fixes, new features, performance improvements, etc.
+
+
+# Chonkie Integration Guide - Enhanced documentation available
